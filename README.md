@@ -2,6 +2,15 @@
 
 Implementation of the main experiment from https://arxiv.org/abs/2105.14824
 
+```
+@article{baumhauer2021bounded,
+  title={Bounded logit attention: Learning to explain image classifiers},
+  author={Baumhauer, Thomas and Slijepcevic, Djordje and Zeppelzauer, Matthias},
+  journal={arXiv preprint arXiv:2105.14824},
+  year={2021}
+}
+```
+
 <img width="595" alt="git" src="https://user-images.githubusercontent.com/1204232/120814842-2a6bf480-c547-11eb-8faa-48aa0cc25a5a.png">
 
 ## Example usage
